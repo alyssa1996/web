@@ -28,8 +28,8 @@
 2. CSS
   * Practice: [Codecademy CSS](https://www.codecademy.com/learn/learn-css)     
     ✍Study Status: 08.09.2020 ~ (On Process)
-  * Video:     
-    ✍Study Status:
+  * Video: [생활코딩 WEB-2](https://www.youtube.com/watch?v=Ok0bBJPtgJI&list=PLuHgQVnccGMAnWgUYiAW2cTzSBywFO75B)     
+    ✍Study Status: 08.09.2020 ~ (On Process)
  
 3. JavaScript
   * Practice: [Codecademy JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)     
