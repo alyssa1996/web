@@ -1,5 +1,7 @@
 # 💡WEB-Personal Blog
 
+<br/>
+
 ### 👍Goal
 * **To study HTML, CSS, and JavaScript**
 * **To walk through whole developing process on my own**
@@ -11,33 +13,37 @@
   * [ ] Start of Nov,2020(~07.11.2020) : Deploy the blog
 
 <br/>
---------------------------------------------------------------------------------------
+
+* * *
+
 <br/>
 
 #### 📖Study Reference
 1. HTML
-  * Practice: [Codecademy][https://www.codecademy.com/learn/learn-html]     
+  * Practice: [Codecademy HTML](https://www.codecademy.com/learn/learn-html)     
      ✍Study Status: 21.08.2020 ~ 01.09.2020 (Done)
-  * Video: [생활코딩][https://www.youtube.com/watch?v=tZooW6PritE&list=PLuHgQVnccGMDZP7FJ_ZsUrdCGH68ppvPb]     
+  * Video: [생활코딩 WEB-1](https://www.youtube.com/watch?v=tZooW6PritE&list=PLuHgQVnccGMDZP7FJ_ZsUrdCGH68ppvPb)     
      ✍Study Status: 23.08.2020 ~ 08.09.2020 (Done)
  
 2. CSS
-  * Practice: [Codecademy][https://www.codecademy.com/learn/learn-css]     
+  * Practice: [Codecademy CSS](https://www.codecademy.com/learn/learn-css)     
     ✍Study Status: 08.09.2020 ~ (On Process)
   * Video:     
     ✍Study Status:
  
 3. JavaScript
-  * Practice: [Codecademy][https://www.codecademy.com/learn/introduction-to-javascript]     
+  * Practice: [Codecademy JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)     
     ✍Study Status: 02.09.2020 ~ (On Process)
   * Video:     
     ✍Study Status:
  
- <br/>
- ---------------------------------------------------------------------------
- <br/>
+<br/>
+
+* * *
+
+<br/>
  
  #### 📞Contact
- E-mail: <alyssapark96@gmail.com>
-    Naver Blog: <https://blog.naver.com/alyssa1996>
+E-mail: <alyssapark96@gmail.com>   
+  Naver Blog: <https://blog.naver.com/alyssa1996>
  
