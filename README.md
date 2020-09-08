@@ -1,6 +1,6 @@
 # WEB-Personal Blog💡
 
-###Goal👍
+### Goal👍
 * **To study HTML, CSS, and JavaScript**
 * **To walk through whole developing process on my own**
 
@@ -10,9 +10,11 @@
   * [ ] End of Oct,2020(~31.10.2020) : Finish developing with HTML, CSS, and JavaScript
   * [ ] Start of Nov,2020(~07.11.2020) : Deploy the blog
 
+<br/>
 ***
+<br/>
 
-####Study Reference
+#### Study Reference
 1. HTML
  * Practice: [Codecademy][https://www.codecademy.com/learn/learn-html]
  ✍Study Status: 21.08.2020 ~ 01.09.2020 (Done)
@@ -31,9 +33,11 @@
  * Video:
  ✍Study Status:
  
+ <br/>
  ***
+ <br/>
  
- ####Contact
+ #### Contact
  E-mail: <alyssapark96@gmail.com>
  Naver Blog: <https://blog.naver.com/alyssa1996>
  
