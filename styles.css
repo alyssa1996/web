@@ -1,0 +1,37 @@
+body{
+    text-align:center;
+    align-content: center;
+    padding: 3em;
+}
+
+h1{
+    font-size:xx-large;
+    font-weight:normal;
+    font-family: Gill Sans, sans-serif;
+}
+
+article{
+    margin: 1em;
+}
+
+li{
+    font-size:large;
+}
+
+p{
+    font-family: Courier New, monospace;
+}
+
+a{
+    padding-right: 1%;
+}
+
+.vertical_menu{
+    display:inline;
+}
+
+.side_menu{
+    width: 20%;
+    border-right: solid;
+    border-right-color: lightgray;
+}
