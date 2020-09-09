@@ -5,12 +5,18 @@
 ### 👍Goal
 * **To study HTML, CSS, and JavaScript**
 * **To walk through whole developing process on my own**
-
-* **Timeline**
-  * [ ] Middle of Sep,2020(~20.09.2020) : Design concise plan and start coding with HTML
-  * [ ] End of Sep,2020(~03.10.2020) : Finish learn basic of HTML, CSS, and JavaScript
-  * [ ] End of Oct,2020(~31.10.2020) : Finish developing with HTML, CSS, and JavaScript
-  * [ ] Start of Nov,2020(~07.11.2020) : Deploy the blog
+      
+           
+#### **Timeline**
+  * [ ] Design concise plan and start coding with HTML ~ 20.09.2020
+  * [ ] Complete first version of static website with first post using just HTML and CSS (Hosting on github) ~ 27.09.2020
+  * [ ] Finish learn basic of HTML, CSS, and JavaScript ~ 03.10.2020
+  * [ ] Make first version of website dynamic with HTML, CSS, and JavaScript ~ 31.10.2020 
+  * [ ] Deploy dynamic website ~ 07.11.2020
+        
+              
+#### **Feature List**
+ * [ ] Make it available with two language(KO, EN) 
 
 <br/>
 
@@ -18,7 +24,7 @@
 
 <br/>
 
-#### 📖Study Reference
+### 📖Study Reference
 1. HTML
   * Practice: [Codecademy HTML](https://www.codecademy.com/learn/learn-html)     
      ✍Study Status: 21.08.2020 ~ 01.09.2020 (Done)
@@ -43,7 +49,7 @@
 
 <br/>
  
- #### 📞Contact
+ ### 📞Contact
 E-mail: <alyssapark96@gmail.com>   
   Naver Blog: <https://blog.naver.com/alyssa1996>
  
