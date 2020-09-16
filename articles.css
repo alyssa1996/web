@@ -1,6 +1,25 @@
+.grid{
+	display:grid;
+	grid-template-columns: 256px 1fr;
+}
 
 section{
 	border-right:1px solid;
+}
+
+section h3{
+	padding-left:16px;
+	text-align:left;
+}
+
+section li{
+	list-style-type:none;
+	text-align:left;
+}
+
+ ul a{
+	font-size:12px;
+	padding-top:2px;
 }
 
 article{
@@ -13,9 +32,4 @@ article h2{
 
 p{
 	text-align:left;
-}
-
-.grid{
-	display:grid;
-	grid-template-columns: 150px 1fr;
 }
