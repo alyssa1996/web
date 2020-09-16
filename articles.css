@@ -1,0 +1,21 @@
+
+section{
+	border-right:1px solid;
+}
+
+article{
+	padding: 32px;
+}
+
+article h2{
+	text-align:left;
+}
+
+p{
+	text-align:left;
+}
+
+.grid{
+	display:grid;
+	grid-template-columns: 150px 1fr;
+}
