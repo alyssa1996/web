@@ -10,7 +10,7 @@ header h1{
 	display:block;
 	text-align:left;
 	padding-top:16px;
-	padding-left:32px;
+	padding-left:16px;
 	padding-right:32px;
 }
 
@@ -36,4 +36,9 @@ nav a{
 
 a:hover{
 	color:gray;
+}
+
+footer p{
+	font-size:10px;
+	text-align:center;
 }

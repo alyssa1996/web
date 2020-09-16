@@ -15,11 +15,16 @@ section h3{
 section li{
 	list-style-type:none;
 	text-align:left;
+	padding-top:2px;
 }
 
- ul a{
+.title{
 	font-size:12px;
-	padding-top:2px;
+	font-weight:bold;
+}
+
+.subtitle{
+	font-size:10px;
 }
 
 article{
