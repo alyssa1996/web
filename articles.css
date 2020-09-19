@@ -22,7 +22,7 @@ section li{
 
 .title{
 	font-size:12px;
-	font-weight:bold;
+	font-weight: normal;
 }
 
 .subtitle{
@@ -40,6 +40,7 @@ article{
 article h2{
 	text-align:left;
 	font-family: 'Song Myung', serif;
+	font-weight: normal;
 }
 
 p{

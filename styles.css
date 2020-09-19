@@ -12,7 +12,6 @@ header h1{
 	padding-left:16px;
 	padding-right:32px;
 	font-family: 'Song Myung', serif;
-	font-style: 'bold';
 }
 
 a{
@@ -21,7 +20,7 @@ a{
 }
 
 nav{
-	display:block inline;
+	display:block;
 	text-align: right;
 	padding-right:32px;
 	padding-left:32px;
@@ -33,6 +32,8 @@ nav{
 nav a{
 	margin:4px;
 	font-size:16px;
+	font-family: 'Song Myung', serif;
+	font-weight: normal;
 }
 
 a:hover{
