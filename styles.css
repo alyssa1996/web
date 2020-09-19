@@ -38,7 +38,14 @@ a:hover{
 	color:gray;
 }
 
+.introduce{
+	border: 2px solid gray;
+	padding: 64px;
+	margin: 128px;
+}
+
 footer p{
 	font-size:10px;
 	text-align:center;
+	color: dark-gray;
 }
