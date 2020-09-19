@@ -5,6 +5,8 @@
 
 section{
 	border-right:1px solid;
+	font-family: 'Song Myung', serif;
+	
 }
 
 section h3{
@@ -25,16 +27,22 @@ section li{
 
 .subtitle{
 	font-size:10px;
+	font-family: 'Nanum Myeongjo', sans-serif;
 }
 
 article{
 	padding: 32px;
+	height: 512px;
+	overflow:scroll;
+
 }
 
 article h2{
 	text-align:left;
+	font-family: 'Song Myung', serif;
 }
 
 p{
 	text-align:left;
+	font-family: 'Nanum Myeongjo', sans-serif;
 }

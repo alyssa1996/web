@@ -1,4 +1,3 @@
-
 body{
     text-align:center;
 	align-content:center;
@@ -12,6 +11,8 @@ header h1{
 	padding-top:16px;
 	padding-left:16px;
 	padding-right:32px;
+	font-family: 'Song Myung', serif;
+	font-style: 'bold';
 }
 
 a{
@@ -42,6 +43,7 @@ a:hover{
 	border: 2px solid gray;
 	padding: 64px;
 	margin: 128px;
+	font-family: 'Nanum Myeongjo', sans-serif;
 }
 
 footer p{
