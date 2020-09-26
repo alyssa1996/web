@@ -1,11 +1,13 @@
 .grid{
-	display:grid;
-	grid-template-columns: 256px 1fr;
+	display:flex;
+	flex-direction:row;
 }
 
 section{
+	flex:none;
 	border-right:1px solid;
 	font-family: 'Song Myung', serif;
+	padding:8px;
 	
 }
 
@@ -31,10 +33,9 @@ section li{
 }
 
 article{
-	padding: 32px;
+	padding: 16px;
 	height: 512px;
 	overflow:scroll;
-
 }
 
 article h2{

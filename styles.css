@@ -9,27 +9,28 @@ header{
 	position:sticky;
 	top:0;
 	background-color:white;
+	padding: 16px 32px;
+	display:flex;
 }
-
-nav{
-	display:block;
-	padding-right:32px;
-	padding-left:32px;
-	padding-bottom:8px;
-	padding-top:8px;
-	border-bottom: 2px double;
+header h1{
+	display:inline;
+	float:left;
+	margin:0;
 	font-family: 'Song Myung', serif;
 }
 
-nav h1{
-	display:inline;
-	text-align:left;
+nav{
+	flex:70%;
+	align-self:right;
+	font-family: 'Song Myung', serif;
 }
 
 nav a{
-	text-align:right;
 	font-size:16px;
 	font-weight: normal;
+	float: right;
+	margin:0;
+	padding-right:8px;
 }
 
 a{
@@ -41,7 +42,7 @@ a:hover{
 	color:gray;
 }
 
-article, .intro{
+.intro{
 	border: 2px solid gray;
 	padding: 64px;
 	margin: 128px;
