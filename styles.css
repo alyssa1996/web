@@ -40,11 +40,12 @@ a:hover{
 	color:gray;
 }
 
-.introduce{
+article{
 	border: 2px solid gray;
 	padding: 64px;
 	margin: 128px;
 	font-family: 'Nanum Myeongjo', sans-serif;
+	font-size: 16px;
 }
 
 footer p{
