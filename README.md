@@ -8,7 +8,7 @@
       
            
 #### **Timeline**
-  * [ ] Design concise plan and start coding with HTML ~ 20.09.2020
+  * [x] Design concise plan and start coding with HTML ~ 20.09.2020
   * [ ] Complete first version of static website with first post using just HTML and CSS (Hosting on github) ~ 27.09.2020
   * [ ] Finish learn basic of HTML, CSS, and JavaScript ~ 03.10.2020
   * [ ] Make first version of website dynamic with HTML, CSS, and JavaScript ~ 31.10.2020 
@@ -41,8 +41,8 @@
   * Practice: [Codecademy JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)     
     ✍Study Status: 02.09.2020 ~ (On Process)
   * Video:     
-    ✍Study Status:
- 
+    ✍Study Status: 18.09.2020 ~ (Done)
+  
 <br/>
 
 * * *
