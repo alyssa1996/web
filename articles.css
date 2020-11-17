@@ -16,8 +16,7 @@ section h3{
 	text-align:left;
 }
 
-section li{
-	list-style-type:none;
+li{
 	text-align:left;
 	padding-top:2px;
 }
@@ -32,19 +31,16 @@ section li{
 	font-family: 'Nanum Myeongjo', sans-serif;
 }
 
-article{
-	padding: 16px;
-	height: 512px;
-	overflow:scroll;
-}
-
 article h2{
-	text-align:left;
-	font-family: 'Song Myung', serif;
-	font-weight: normal;
+	text-align: left;
+	font-weight: bold;
+	font-size: xx-large;
+	font-family: MapoFlowerIsland;
+	
 }
 
-p{
-	text-align:left;
-	font-family: 'Nanum Myeongjo', sans-serif;
+article p{
+	text-align: left;
+	font-size: x-large;
+	font-family: MapoFlowerIsland;
 }

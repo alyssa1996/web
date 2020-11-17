@@ -1,8 +1,31 @@
+@font-face {
+    font-family: 'MaruBuri-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-10-21@1.0/MaruBuri-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MapoFlowerIsland';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/MapoFlowerIslandA.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Binggrae-Bold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/Binggrae-Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 body{
     text-align:center;
 	align-content:center;
 	margin-left:16px;
 	margin-right:16px;
+	padding-left:128px;
+	padding-right: 128px;
+	font-family: MapoFlowerIsland;
 }
 
 header{
@@ -16,17 +39,26 @@ header h1{
 	display:inline;
 	float:left;
 	margin:0;
-	font-family: 'Song Myung', serif;
+}
+
+h1{
+	font-family:Binggrae-Bold;
+	text-align: left;
+}
+
+nav .left{
+	align-self:left;
+	float: left;
 }
 
 nav{
 	flex:70%;
 	align-self:right;
-	font-family: 'Song Myung', serif;
 }
 
+
 nav a{
-	font-size:16px;
+	font-size:20px;
 	font-weight: normal;
 	float: right;
 	margin:0;
@@ -46,10 +78,18 @@ a:hover{
 	border: 2px solid gray;
 	padding: 64px;
 	margin: 128px;
-	font-family: 'Nanum Myeongjo', sans-serif;
 	font-size: 16px;
 }
 
+.highlight{
+	background: linear-gradient(to top, #FFE400 70%, transparent 50%)
+}
+
+.disc{
+	font-size:24px;
+	text-align: left;
+	line-height: 120%;
+}
 footer p{
 	font-size:10px;
 	text-align:center;
