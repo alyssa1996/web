@@ -1,5 +1,8 @@
-article h2{
+article{
 	text-align: left;
+}
+
+article h2{
 	font-weight: bold;
 	font-size: xx-large;
 	font-family: MapoFlowerIsland;
@@ -7,34 +10,22 @@ article h2{
 }
 
 article p{
-	text-align: left;
 	font-size: x-large;
+	line-height: 1;
 	font-family: MapoFlowerIsland;
 }
 
-div a{
-
+.company a{
 	font-size: x-large;
 	font-family: MapoFlowerIsland;
 }
 
 img{
-	width:15%
+	width:12%
 	
 }
 
 .work{
+	display:flex;
 
-}
-
-.company{
-	text-align: left;
-	float:left;
-	margin-right: 256px;
-	border-right: 1px solid;
-	padding-right: 64px;
-}
-
-.project{
-	margin-left: 256px;
 }
